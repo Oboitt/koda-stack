@@ -42,3 +42,6 @@ Do NOT: [specific things to avoid for this piece]
 - Colors must be in hex — no vague color names
 - If the script calls for a visual world, commit to it fully — no half measures
 - Consider the platform format (9:16 vertical for reels) in every composition decision
+- **ALWAYS include a "Texture" field** with 3-5 keywords from the Fokkus texture library (film grain, sweat, worn equipment, harsh outdoor light, shallow DOF, etc.) — this prevents the "AI look"
+- **Use Visual Contrast when possible** — place the subject in an unexpected environment to stop the scroll. Formula: [Subject] + [World that has zero connection] = Scroll-stop. Example: a tennis player practicing serves in an empty cathedral. The more absurd the pairing, the harder it hits — but it must look REAL (same lighting ties both worlds together).
+- **Always plan the close-up → wide reveal** — for every contrast scene, generate a close-up (could be mistaken for real) and a wide shot (reveals the impossible context). The reveal IS the content.
